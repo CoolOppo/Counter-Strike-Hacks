@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spacehack", "Spacehook_base\Spacehook_base.vcxproj", "{C6A32A3B-7F36-4589-954A-992EDCAE80E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A32A3B-7F36-4589-954A-992EDCAE80E5}.Debug|Win32.ActiveCfg = Release|Win32
+		{C6A32A3B-7F36-4589-954A-992EDCAE80E5}.Debug|Win32.Build.0 = Release|Win32
+		{C6A32A3B-7F36-4589-954A-992EDCAE80E5}.Release|Win32.ActiveCfg = Release|Win32
+		{C6A32A3B-7F36-4589-954A-992EDCAE80E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

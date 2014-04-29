@@ -1,0 +1,1 @@
+AStyle.exe --recursive --style=gnu --mode=c -xT4fpHdQvjpk1nRUiX "../*.h" "../*.cpp" "../*.c"
