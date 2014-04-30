@@ -13,3 +13,10 @@ This repository is a collection of CS:GO [game bots](http://en.wikipedia.org/wik
 	- Cheat
 	- Aimbot
 	- Triggerbot
+	- CSGO
+	- CS:GO
+	- CS: GO
+	- Counter Strike
+	- CounterStrike
+	- Global-Offensive
+	- GlobalOffensive
