@@ -1,15 +1,4 @@
 /*
-+++++++++++++++++++++++++++++++++++++++++++++
-+	     ###			##	 ##				+
-+	   ###				##	 ##				+
-+	  ###				##	 ##				+
-+	###					#######				+
-+	###			####	#######				+
-+	   ###				##	 ##				+
-+	 ###				##	 ##				+
-+	###					##	 ##				+
-+++++++++++++++++++++++++++++++++++++++++++++
-
 # SpaceHack CS:GO base
 # Coded by Sandaasu & Grab
 
@@ -102,7 +91,7 @@ int hack()
 					cout << "Wire-Wallhack =  OK! " <<  "\n" << endl;
 
 
-					// r_drawrenderboxes 2 (grüne ESP )
+					// r_drawrenderboxes 2 (grï¿½ne ESP )
 					int esp_value = 1;
 					DWORD iesp_value = sizeof (esp_value);
 					WriteProcessMemory (hHandle, (LPVOID) (ClientDll + 0x84B9A0), &esp_value, iesp_value, 0);//client.dll+84B9A0
