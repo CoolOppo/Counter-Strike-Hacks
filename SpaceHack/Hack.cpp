@@ -36,7 +36,7 @@ int hack()
 
 	if (hHandle)
 		{
-			if (!hWnd)
+	  	if (!hWnd)
 				{
 
 					return 0;
